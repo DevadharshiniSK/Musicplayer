@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there, I'm Devadharshini 👋<h3>
  Aspiring front end developer..!!
  LinkedIn:<a href="https://www.linkedin.com/in/devadharshini-s-k-5b60a422a">
- E-mail Id:<a hred="devashanmugaraj43@gmail.com"> 
+ E-mail Id:<a href="devashanmugaraj43@gmail.com"> 
   
